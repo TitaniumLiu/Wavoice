@@ -39,3 +39,6 @@ If you find this useful for your research, please use the following.
   year={2021}
 }
 ```
+## Reference 
+The codes for Lisen, Attend, and Speller(LAS) in the system is borrowed from https://github.com/jiwidi/las-pytorch
+
