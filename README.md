@@ -2,6 +2,7 @@
 Pytorch implementation of our proposed system for noise-resistant multi-modal speech recognition system via fusing mmWave and audio signals.
 
 Wavoice: A Noise-resistant Multi-modal Speech Recognition System Fusing mmWave and Audio Signals.
+
 Tiantian Liu,Gao Ming,Chao Wang,Feng Lin,Zhongjie Ba,Jinsong Han,Wenyao Xu,Kui Ren in SenSys2021
 
 ## Prerequisites
