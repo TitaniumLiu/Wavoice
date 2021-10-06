@@ -3,7 +3,7 @@ Pytorch implementation of our proposed system for noise-resistant multi-modal sp
 
 Wavoice: A Noise-resistant Multi-modal Speech Recognition System Fusing mmWave and Audio Signals.
 
-Tiantian Liu,Gao Ming,Chao Wang,Feng Lin,Zhongjie Ba,Jinsong Han,Wenyao Xu,Kui Ren in SenSys2021
+Tiantian Liu,Gao Ming,Feng Lin,Chao Wang,Zhongjie Ba,Jinsong Han,Wenyao Xu,Kui Ren in SenSys2021
 
 ## Prerequisites
 - Linux
@@ -35,7 +35,7 @@ If you find this useful for your research, please use the following.
 ```
 @inproceedings{liu2021Wavoice,
   title={A Noise-resistant Multi-modal Speech Recognition System Fusing mmWave and Audio Signals},
-  author={Tiantian Liu,Gao Ming,Chao Wang,Feng Lin,Zhongjie Ba,Jinsong Han,Wenyao Xu,Kui Ren}, 
+  author={Tiantian Liu,Gao Ming,Feng Lin,Chao Wang,Zhongjie Ba,Jinsong Han,Wenyao Xu,Kui Ren}, 
   booktitle={Proceedings of the 19th Conference on Embedded Networked Sensor Systems (SenSys)},
   year={2021}
 }
